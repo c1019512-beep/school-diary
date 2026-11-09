@@ -1,0 +1,2 @@
+# school-diary
+Create repository
